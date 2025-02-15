@@ -3,7 +3,7 @@
 ```markdown
 # Enatega Food Delivery
 
-**Enatega Food Delivery** is a location-based restaurant finder web application built with **Next.js**, **Tailwind CSS**, and **PrimeReact**. Users can search for nearby restaurants by either entering a delivery address or using their current geolocation. The app queries a GraphQL server to fetch restaurants and displays them in a grid format.
+Enatega Food Delivery is a location-based restaurant finder web application built with Next.js, Tailwind CSS, and PrimeReact. Users can search for nearby restaurants by either entering a delivery address or using their current geolocation. The app queries a GraphQL server to fetch restaurants and displays them in a grid format.
 
 ## Features
 
